@@ -3370,6 +3370,13 @@
     background-image: url("../images/dining01.png");
    float: right;
   }
+  p.intro{
+    color: #e23135;
+  }
+  p.para{
+    color: blueviolet;
+    font-weight: bolder;
+  }
 
 /* Banner */
 
